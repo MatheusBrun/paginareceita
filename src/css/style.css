@@ -20,7 +20,7 @@ body {
   border-radius: 24px;
   background-color: #F0E8C2;
   padding: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 
 #main-image {
@@ -68,4 +68,14 @@ p,
 li {
   font-size: 16px;
   color: #573A37;
+}
+
+footer {
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
 }
